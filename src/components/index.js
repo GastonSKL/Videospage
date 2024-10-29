@@ -4,6 +4,7 @@ import Navbar from "./Navbar";
 import SearchFeed from "./SearchFeed";
 import VideoDetail from "./VideoDetail";
 import SearchBar from "./SearchBar";
+import Sidebar from "./Sidebar";
 
 export {
     Feed,
@@ -11,5 +12,6 @@ export {
     Navbar,
     SearchFeed,
     VideoDetail,
-    SearchBar
+    SearchBar,
+    Sidebar
 }
