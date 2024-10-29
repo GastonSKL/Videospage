@@ -8,6 +8,7 @@ import Sidebar from "./Sidebar";
 import Videos from "./Videos";
 import VideoCard from "./VideoCard";
 import ChannelCard from "./ChannelCard";
+import Loader from "./Loader";
 
 export {
     Feed,
@@ -19,5 +20,6 @@ export {
     Sidebar,
     Videos,
     VideoCard,
-    ChannelCard
+    ChannelCard,
+    Loader
 }
